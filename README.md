@@ -1,7 +1,5 @@
 <div align="center">
 <img width="3456" height="1170" alt="output" src="https://github.com/user-attachments/assets/a01cea6b-f701-4545-b026-55a0d01e1d72" />
-  <img src="images.jpg" width="100%" style="image-rendering: pixelated; border-radius: 10px;" alt="Creation of Adam Console" />
-  
   <br><br>
 
   <h3>// CARLOS S. MARTÍNEZ MURILLO</h3>
