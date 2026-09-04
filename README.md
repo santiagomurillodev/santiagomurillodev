@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Aesthetic Blanco y Negro -->
-  <img src="https://i.pinimg.com/originals/a0/0a/6c/a00a6c016e0b7b1ebff2786720ea3f63.gif" alt="Dark Aesthetic Banner" width="100%" style="border-radius: 10px;" />
+  <!-- BANNER EXACTO: Manos de la Creación de Adán Pixel Art -->
+  <img src="https://raw.githubusercontent.com/santiagomurillodev/santiagomurillodev/main/hands-console.gif" onerror="this.onerror=null; this.src='https://i.pinimg.com/originals/c9/28/fc/c928fc0c2669e96fbd2fbdc4cb03e4ee.gif';" alt="Creation of Adam Console Wireframe" width="100%" style="border-radius: 10px;" />
   
   <br><br>
 
@@ -47,7 +47,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <!-- Skill Icons: Los iconos exactos de tu foto de referencia -->
+  <!-- Skill Icons con el efecto neón/cristal oscuro -->
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,astro,tailwind,nodejs,supabase,aws,linux,figma,docker,git&perline=12" alt="Tech Stack" />
 </div>
 
