@@ -1,67 +1,71 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Carlos%20Santiago%20Martínez%20Murillo&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Infrastructure%20%7C%20Hardware&descAlignY=55&descAlign=50)
-
 <div align="center">
+  <!-- Banner Aesthetic Blanco y Negro -->
+  <img src="https://i.pinimg.com/originals/a0/0a/6c/a00a6c016e0b7b1ebff2786720ea3f63.gif" alt="Dark Aesthetic Banner" width="100%" style="border-radius: 10px;" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Architecture;Infrastructure+%26+Cloud+Deployments;Hardware+Diagnostics+%26+3D+Printing)](https://git.io/typing-svg)
+  <br><br>
 
-  <br/>
+  <h2>Hi 👋, I'm Carlos Murillo</h2>
+  <p style="color: #8b949e;">Software & Infrastructure Engineer</p>
 
-  <a href="https://santiagomurillx.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contacto@santiagomurillx.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Typing SVG Minimalista -->
+  <a href="https://santiagomurillx.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;Designing+scalable+cloud+architecture;Hardware+diagnostics+%26+3D+Printing" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+<br><br>
 
-### // THE MANIFESTO
+### 🔗 About Me
 
-Soy un Ingeniero de Software e Infraestructura radicado en Guadalajara, MX. Mi filosofía es simple: la verdadera ingeniería requiere entender la tecnología desde las compuertas lógicas del silicio hasta las animaciones CSS en el navegador.
-
-> **Arquitectura de Software**
-> Actualmente construyendo y escalando plataformas SaaS como **TechCore** utilizando frameworks modernos (Astro, Next.js) y arquitecturas multi-tenant (Supabase).
-
-> **Infraestructura & Hardware**
-> Mi banco de trabajo nunca está vacío. Ya sea diagnosticando la placa lógica de una MacBook Pro, descontaminando consolas afectadas por corrosión, o fabricando piezas funcionales en TPU/PETG mediante impresión 3D.
-
-> **Exploración Activa**
-> Modelos comerciales de despliegue, optimización de bases de datos y soluciones web de alto rendimiento.
-
-<br/>
-
-### // TECH STACK
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Server-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D_Printing-000000?style=for-the-badge&logo=creality&logoColor=white" />
+<div>
+  <!-- Astronauta Pixel Art flotando a la derecha -->
+  <img align="right" src="https://i.pinimg.com/originals/60/73/0f/60730f7e44e2de70e7e3ba93fbbd867c.gif" width="180" alt="Pixel Art Astronaut" style="margin-left: 20px; border-radius: 10px;" />
+  
+  <p>Carlos, Here — a Software Engineer based in MX focused on architecture and infrastructure.</p>
+  
+  <p>I enjoy building scalable, production-ready applications with modern frameworks and continuously improving my understanding of real-world backend systems.</p>
+  
+  <p>Currently, I'm building <b>TechCore</b> and working with <b>Astro, Next.js, Supabase, and AWS</b>, while sharpening my problem-solving skills bridging the gap between hardware and software.</p>
+  
+  <p>My goal is simple: write clean code, build reliable software, and create systems that last.</p>
 </div>
 
-<br/>
+<br clear="both">
+<br>
 
-### // SYSTEM ANALYTICS
+### 🤝 Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiagomurillodev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomurillodev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=00000000" alt="Top Languages" width="48%" />
+  <!-- Iconos de conexión estilo cristal -->
+  <a href="https://github.com/santiagomurillodev"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/tu-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:contacto@santiagomurillx.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
 
-<br/>
+<br>
+
+### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagomurillodev&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&sideNums=a3a3a3&sideLabels=a3a3a3&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+  <!-- Skill Icons: Los iconos exactos de tu foto de referencia -->
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,astro,tailwind,nodejs,supabase,aws,linux,figma,docker,git&perline=12" alt="Tech Stack" />
+</div>
+
+<br><br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- Stats en tema Void (Sin bordes, texto gris y acentos blancos) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=santiagomurillodev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=8b949e&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagomurillodev&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&sideNums=ffffff&sideLabels=8b949e&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&currStreakNum=ffffff" width="48%" />
+</div>
+
+<br>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <!-- La gráfica de picos de contribución de la imagen -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagomurillodev&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=ffffff&point=ffffff" width="100%" />
 </div>
