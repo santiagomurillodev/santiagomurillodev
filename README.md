@@ -1,7 +1,7 @@
 <div align="center">
   <!-- BANNER EXACTO: Manos de la Creación de Adán Pixel Art -->
-  <img src="https://raw.githubusercontent.com/santiagomurillodev/santiagomurillodev/main/hands-console.gif" onerror="this.onerror=null; this.src='https://i.pinimg.com/originals/c9/28/fc/c928fc0c2669e96fbd2fbdc4cb03e4ee.gif';" alt="Creation of Adam Console Wireframe" width="100%" style="border-radius: 10px;" />
-  
+<img width="3456" height="2234" alt="output" src="https://github.com/user-attachments/assets/5c701be0-1b60-4334-9676-62edc0812af0" />
+
   <br><br>
 
   <h2>Hi 👋, I'm Carlos Murillo</h2>
